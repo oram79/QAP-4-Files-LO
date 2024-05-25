@@ -1,1 +1,1 @@
-# Projects for QAP4
+# Projects For QAP 1 (Semester 1) Python & Javascript
